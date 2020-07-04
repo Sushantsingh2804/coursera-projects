@@ -1,0 +1,19 @@
+*{
+  font-family: Comic Sans MS;
+}
+body{
+  background-color:#966feb;
+}
+
+
+
+h1{
+  text-align: center;
+}
+#my{
+  text-align: center;
+}
+.jumbotron{
+  padding-top: 10px;
+  text-align: center;
+}
